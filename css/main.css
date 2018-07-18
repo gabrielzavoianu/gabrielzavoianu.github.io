@@ -16,9 +16,9 @@ body {
   font-size: 14px;
   line-height: 1.5;
   font-weight: 400;
-/**  color: #1a1a1a; **/
-  color: #333;
-  background-color: #fdfdfd;
+  color: #1a1a1a;
+/*  background-color: #fdfdfd; */
+  background-color: #333;
   -webkit-text-size-adjust: 100%; }
 
 /**
